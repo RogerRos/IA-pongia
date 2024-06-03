@@ -1,3 +1,5 @@
+#Aquesta es la primera versio, aquesta versio funcionava be, pero tenia un problema amb les colisions de la pilota dins de la raqueta (es quedava atascada).
+
 import pygame
 import sys
 import random
