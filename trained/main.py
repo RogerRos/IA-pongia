@@ -1,5 +1,3 @@
-#Finally I can state that this AI works perfectly (the trained model file is missing a bit).
-
 import pygame
 import sys
 import random
